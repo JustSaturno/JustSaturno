@@ -17,5 +17,3 @@ Linguagens conhecidas
 ![IgorHenriqueG's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorHenriqueG&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorHenriqueG&theme=radical)
-
-<img alt="snake eating my countributions" src="https://raw.githubusercontent.com/IgorHenriqueG/IgorHenriqueG/output/github-contribution-grid-snake.svg" />
