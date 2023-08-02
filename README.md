@@ -18,4 +18,4 @@ Linguagens conhecidas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorHenriqueG&theme=radical)
 
-![snake gif](https://github.com/Formandodev/IgorHenriqueG/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/IgorHenriqueG/IgorHenriqueG/blob/output/github-contribution-grid-snake.svg)
