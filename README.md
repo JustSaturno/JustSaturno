@@ -1,5 +1,5 @@
 ## Olá e seja bem vindo a meu perfil.
-### Me chamo Igor, tenho 20 anos e sou estudante no SENAI
+### Me chamo Igor, tenho 20 anos e atualmente estou estudando Desenvolvimento de sistemas no SENAI
 
 Linguagens conhecidas
 <div style="display: inline_block">
