@@ -18,4 +18,6 @@ Linguagens conhecidas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorHenriqueG&theme=radical)
 
-<img align="center" alt="snake eating my contributions" src="https://raw.githubusercontent.com/IgorHenriqueG/IgorHenriqueG/output/github-contribution-grid-snake-dark.svg">
+<h1 align="center">
+  <img align="center" alt="snake eating my contributions" src="https://raw.githubusercontent.com/IgorHenriqueG/IgorHenriqueG/output/github-contribution-grid-snake-dark.svg">
+</h1>
