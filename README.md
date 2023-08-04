@@ -14,10 +14,10 @@ Linguagens conhecidas
 
 ##
 
+<h1 align="center">
 ![IgorHenriqueG's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorHenriqueG&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorHenriqueG&theme=radical)
 
-<h1 align="center">
   <img align="center" alt="snake eating my contributions" src="https://raw.githubusercontent.com/IgorHenriqueG/IgorHenriqueG/output/github-contribution-grid-snake-dark.svg">
 </h1>
