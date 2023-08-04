@@ -2,7 +2,7 @@
 ### Me chamo Igor, tenho 20 anos e atualmente estou estudando Desenvolvimento de sistemas no SENAI
 
 Linguagens conhecidas
-<div style="display: inline_block">
+<div align="center">
   <img align="center" alt="Igor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   -
   <img align="center" alt="Igor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
