@@ -4,8 +4,7 @@
 </div>
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=17&pause=1&color=93B7F7&center=true&multiline=true&width=440&height=60&lines=Hello%2C+my+name+is+Igor+Henrique;systems+development+technician+student)](https://git.io/typing-svg)
-
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=30&pause=1&color=93B7F7&center=true&multiline=true&width=600&height=100&lines=Hello%2C+my+name+is+Igor+Henrique;systems+development+technician+student)](https://git.io/typing-svg)
 ### Me chamo Igor, tenho 20 anos e atualmente estou estudando Desenvolvimento de sistemas no SENAI
 
 
