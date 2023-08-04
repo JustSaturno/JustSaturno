@@ -8,7 +8,7 @@
 ### I'm 20 years old and studying at SENAI 
 
 
-  Linguagens conhecidas
+  Know Languages
   
   <img align="center" alt="Igor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   -
