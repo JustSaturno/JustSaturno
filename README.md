@@ -4,13 +4,13 @@
 </div>
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=30&pause=1&color=93B7F7&center=true&multiline=true&repeat=false&width=600&height=100&lines=Hello%2C+my+name+is+Igor+Henrique;systems+development+student)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&size=30&pause=1&color=93B7F7&center=true&multiline=true&repeat=false&width=600&height=100&lines=Hello%2C+my+name+is+Igor+Henrique;systems+development+student)](https://git.io/typing-svg)
   
   <!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=30&pause=1&color=93B7F7&center=true&multiline=true&width=600&height=100&lines=Hello%2C+my+name+is+Igor+Henrique;systems+development+technician+student)](https://git.io/typing-svg)-->
 ### I'm 20 years old and studying at SENAI 
 
 
-  Know Languages
+  Known Languages
   
   <img align="center" alt="Igor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   -
