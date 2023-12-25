@@ -28,6 +28,8 @@
   
 ![IgorHenriqueG's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorHenriqueG&show_icons=true&theme=radical)
 
+<a href="http://www.github.com/igorhenriqueG"><img src="https://github-readme-streak-stats.herokuapp.com/?user=igorhenriqueG&stroke=ffffff&background=141321&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" /></a>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorHenriqueG&theme=radical)
 
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=IgorHenriqueG&bg_color=1717171&color=E0115F&line=630c92&point=FFD700&area=true&hide_border=true">
