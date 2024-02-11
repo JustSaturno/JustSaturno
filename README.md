@@ -8,7 +8,7 @@
 <!--(https://git.io/typing-svg)-->
   
   <!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=30&pause=1&color=93B7F7&center=true&multiline=true&width=600&height=100&lines=Hello%2C+my+name+is+Igor+Henrique;systems+development+technician+student)](https://git.io/typing-svg)-->
-### I'm 20 years old and studying at SENAI 
+### I'm 21 years old and studying at SENAI 
 
 
   Known Languages
