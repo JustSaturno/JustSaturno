@@ -6,25 +6,27 @@
 
 <br clear="both">
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=IgorHenriqueG.IgorHenriqueG&left_color=firebrick&right_color=goldenrod"  />
+<div align="right">
+  ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=${your.username}.${your.repo.id}&left_color=firebrick&right_color=goldenrod)
+</div>
 
 ###
 
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IgorHenriqueG&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=IgorHenriqueG&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IgorHenriqueG&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=IgorHenriqueG&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true" height="140" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=IgorHenriqueG&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5" height="140" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IgorHenriqueG&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" height="140" alt="languages graph"  />
 </div>
 
 ###
 
 <div align="center">
   <a href="https://open.spotify.com/user/Saturn">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=315xpxxfxex7hr4s3tzzuyil4pze&count=3" alt="Spotify recently played"  />
+    <img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=315xpxxfxex7hr4s3tzzuyil4pze&count=3" alt="Spotify recently played"  />
   </a>
-  <img align="right" height="200" src="https://camo.githubusercontent.com/a43a8fa34809a74a4da44ea631ec975aa767b099a4afba2115a5fca74cf0b95f/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37642f64382f63612f37646438636132333732666230353036386137313932656361343064363535622e676966"  />
+  <img align="center" height="200" src="https://camo.githubusercontent.com/a43a8fa34809a74a4da44ea631ec975aa767b099a4afba2115a5fca74cf0b95f/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37642f64382f63612f37646438636132333732666230353036386137313932656361343064363535622e676966"  />
 
 </div>
 
