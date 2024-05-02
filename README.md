@@ -1,39 +1,76 @@
-<div align="right">
-  
-  ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=${your.username}.${your.repo.id})
-</div>
+<br clear="both">
+
+<h1 align="center">Heyo, my name is Igor, nice to meet you.</h1>
+
+###
+
+<br clear="both">
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=IgorHenriqueG.IgorHenriqueG&left_color=firebrick&right_color=goldenrod"  />
+
+###
+
+<br clear="both">
+
 <div align="center">
-
-  <!--![Typing SVG](https://readme-typing-svg.demolab.com?font=Edu+SA+Beginner&size=30&pause=1&color=09ed19&center=true&multiline=true&repeat=false&width=600&height=100&lines=Hello%2C+my+name+is+Igor+Henrique;systems+development+student)-->
-## Hello, I'm Igor Henrique. System developer.
-<!--(https://git.io/typing-svg)-->
-  
-  <!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=30&pause=1&color=93B7F7&center=true&multiline=true&width=600&height=100&lines=Hello%2C+my+name+is+Igor+Henrique;systems+development+technician+student)](https://git.io/typing-svg)-->
-### I'm 21 years old and studying at SENAI 
-
-
-  Known Languages
-  
-  <img align="center" alt="Igor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  -
-  <img align="center" alt="Igor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  -
-  <img align="center" alt="Igor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  -
-  <img align="center" alt="Igor-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
+  <img src="https://github-readme-stats.vercel.app/api?username=IgorHenriqueG&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=IgorHenriqueG&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IgorHenriqueG&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
-##
+###
 
-<h1 align="center">
-  
-![IgorHenriqueG's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorHenriqueG&show_icons=true&theme=radical)
+<div align="center">
+  <a href="https://open.spotify.com/user/Saturn">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=315xpxxfxex7hr4s3tzzuyil4pze&count=3" alt="Spotify recently played"  />
+  </a>
+  <img align="right" height="200" src="https://camo.githubusercontent.com/a43a8fa34809a74a4da44ea631ec975aa767b099a4afba2115a5fca74cf0b95f/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37642f64382f63612f37646438636132333732666230353036386137313932656361343064363535622e676966"  />
 
-<a href="http://www.github.com/igorhenriqueG"><img src="https://github-readme-streak-stats.herokuapp.com/?user=igorhenriqueG&stroke=ffffff&background=141321&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" /></a>
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorHenriqueG&theme=radical)
+###
 
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=IgorHenriqueG&bg_color=1717171&color=E0115F&line=630c92&point=FFD700&area=true&hide_border=true">
+<br clear="both">
 
-  <img align="center" alt="snake eating my contributions" src="https://raw.githubusercontent.com/IgorHenriqueG/IgorHenriqueG/output/github-contribution-grid-snake-dark.svg">
-</h1>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="40" alt="discordjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+
+###
+
+<br clear="both">
+
+<img align="center" alt="snake eating my contributions" src="https://raw.githubusercontent.com/IgorHenriqueG/IgorHenriqueG/output/github-contribution-grid-snake-dark.svg">
+
+###
