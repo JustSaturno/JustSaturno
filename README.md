@@ -27,7 +27,8 @@
   <a href="https://open.spotify.com/user/Saturn">
     <img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=315xpxxfxex7hr4s3tzzuyil4pze&count=3" alt="Spotify recently played"  />
   </a>
-  <img align="center" height="200" src="https://camo.githubusercontent.com/a43a8fa34809a74a4da44ea631ec975aa767b099a4afba2115a5fca74cf0b95f/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37642f64382f63612f37646438636132333732666230353036386137313932656361343064363535622e676966"  />
+<!--   <img align="center" height="200" src="https://camo.githubusercontent.com/a43a8fa34809a74a4da44ea631ec975aa767b099a4afba2115a5fca74cf0b95f/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37642f64382f63612f37646438636132333732666230353036386137313932656361343064363535622e676966"  /> -->
+<img align="center" height="200" src="https://lh6.googleusercontent.com/proxy/GSSZLbdNqojJ8r-4TuYMdCuKvY0BCa03AxAhWDWwgC41kJC9QIlR6UNw7bb4JzKllLOkSHEq_ukbMDZVBlFDK1DvKzjIjHm7oh4A"  />
 
 </div>
 
